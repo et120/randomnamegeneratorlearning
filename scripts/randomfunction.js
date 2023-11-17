@@ -1,6 +1,7 @@
 export { RandomName };
 
 function RandomName(array){
-    console.log(Math.floor(Math.random() * array.length));
+    let numberName = Math.floor(Math.random() * array.length);
+    return array[numberName];
 }
 
