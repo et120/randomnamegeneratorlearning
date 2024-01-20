@@ -1,5 +1,6 @@
 Random Name Generator
 
+Key Requirements:
 1. add names to a name pool
 2. generate a random name
 3. remove a name from the name pool
@@ -18,4 +19,5 @@ Random Name Generator
     Take in name input and get its index within our name array
     use .splice to remove that element
 
+To do:
 **Add styling
